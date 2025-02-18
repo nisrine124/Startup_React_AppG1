@@ -3,7 +3,8 @@ const UserList = [
         { id: 2, name: 'Jane Smith', email: 'jane.smith@example.com', userType: 'user' },
         { id: 3, name: 'Alice Johnson', email: 'alice.johnson@example.com', userType: 'moderator' },
         { id: 4, name: 'Bob Brown', email: 'bob.brown@example.com', userType: 'user' },
-        { id: 5, name: 'Bob ', email: 'bob.brown@example.com', userType: 'user' }
+        { id: 5, name: 'Bob ', email: 'bob.brown@example.com', userType: 'user' },
+        { id: 6, name: 'Bob ', email: 'bob.brown@example.com', userType: 'user' }
     ];
 
 
